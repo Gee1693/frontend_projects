@@ -1,1 +1,1 @@
-![Design preview for the Product preview card component coding challenge](https://htmlpreview.github.io//Users/garymartin/Desktop/frontend-projects/number-guessing-game/index.html)
+![Design preview for the Product preview card component coding challenge](https://gee1693.github.io/)
